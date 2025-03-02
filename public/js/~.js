@@ -184,7 +184,7 @@ function handleCheckboxChange() {
 					const htmlContent = `
 						<html>
 							<head>
-								<title>Space</title>
+								<title>Flamepass</title>
 								<style>
 									body, html {
 										margin: 0;
@@ -235,7 +235,7 @@ function handleCheckboxChange() {
 					let newWindow = window.open(blobUrl);
 					if (newWindow) {
 						newWindow.onload = () => {
-							newWindow.document.title = 'Space';
+							newWindow.document.title = 'Flamepass';
 						};
 					}
 
@@ -383,7 +383,7 @@ function launchBlob() {
 	const htmlContent = `
 		<html>
 			<head>
-				<title>Space</title>
+				<title>Flamepass</title>
 				<style>
 					body, html {
 						margin: 0;
@@ -434,7 +434,7 @@ function launchBlob() {
 	let newWindow = window.open(blobUrl);
 	if (newWindow) {
 		newWindow.onload = () => {
-			newWindow.document.title = 'Space';
+			newWindow.document.title = 'Flamepass';
 		};
 	}
 }

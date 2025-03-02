@@ -1,4 +1,4 @@
-# Contributing to Space
+# Contributing to Flamepass
 
 First of all, thanks for taking interest in the project!
 
@@ -70,9 +70,8 @@ There is currently no windows version of the script, because I dont like batch a
 > [!NOTE]
 > The all category is required on all additions, however more descriptive ones are optional.
 
-If you are unsure about something or want some clarification on any of these specifications, feel free to join the [discord](https://discord.gointospace.app) where a member of our team will gladly answer your questions!
+If you are unsure about something or want some clarification on any of these specifications, feel free to join the [discord](https://discord.com/invite/gVaXCTqJDq) where a member of our team will gladly answer your questions!
 
 <h1></h1>
 
 ### Thanks for contributing!
-<h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- crllect</h3>

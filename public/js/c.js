@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', function () {
 				const htmlContent = `
 		<html>
 		  <head>
-			<title>Space</title>
+			<title>Flamepass</title>
 			<style>
 			  body, html {
 				margin: 0;
@@ -165,7 +165,7 @@ document.addEventListener('DOMContentLoaded', function () {
 				let newWindow = window.open(blobUrl);
 				if (newWindow) {
 					newWindow.onload = () => {
-						newWindow.document.title = 'Space';
+						newWindow.document.title = 'Flamepass';
 					};
 
 					const tabCloak = localStorage.getItem(
@@ -248,7 +248,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	// Tab Cloaking
 	const cloaks = {
 		'None (Default)': {
-			title: 'Space',
+			title: 'Flamepass',
 			favicon: '/assets/favicon.ico'
 		},
 		'Google Classroom': {

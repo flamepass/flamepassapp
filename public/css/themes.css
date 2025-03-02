@@ -14,12 +14,12 @@
 	--page-text-color: rgba(82, 82, 82, 0.97);
 	--shortcut-background-color: #fff;
 	--shortcut-box-shadow: 0 0 20px 1px #fff;
-	--image-outline-color: #4400ff;
-	--button-background-color: #4400ff;
+	--image-outline-color: #de5c34;
+	--button-background-color: #de5c34;
 	--button-gradient-color: linear-gradient(
 		304deg,
 		rgb(204, 0, 245) 0%,
-		#4400ff 100%
+		#de5c34 100%
 	);
 	--scrolltop-background-color: rgba(32, 32, 32, 0.37);
 	--scrolltop-backdrop-filter: blur(10px);
@@ -28,7 +28,7 @@
 	--random-btn-active-background-color: rgb(15, 15, 15);
 	--settingsection-background-color: #0c0c0c;
 	--settingsection-background-color-hover: #101010;
-	--link-hover-color: #7d2ae8;
+	--link-hover-color: #e8822a;
 	--settingsection-hr-background: rgba(255, 255, 255, 0.22);
 	--button-reg-background-color: rgb(22, 22, 22);
 	--button-reg-hover-background-color: rgb(25, 25, 25);
@@ -64,13 +64,13 @@
 	--color-header: '#fff';
 	--accent-color: linear-gradient(
 		101deg,
-		#4400ff7e 0%,
+		#de5c347e 0%,
 		rgba(242, 0, 255, 0.336) 100%
 	) !important;
 	--color-header: #ff0000 !important;
-	--dshadow1: #ae00ff;
-	--dshadow2: #4400ff;
-	--dshadow3: #ff00d4;
+	--dshadow1: #ff0000;
+	--dshadow2: #de5c34;
+	--dshadow3: #ffef00;
 	--dshadow4: #8400ff;
 }
 
@@ -607,10 +607,10 @@ rgb(194 0 255 / 40%) 100%
 
 :root .daydream {
 	--background-color: #000;
-	--header-active-background-color: rgba(140, 0, 255, 0.55);
+	--header-active-background-color: rgba(255, 0, 0, 0.55);
 	--header-hover-background-color: rgba(140, 0, 255, 0.13);
 	--input-background-color: #0a0a0a;
-	--link-hover-color: #7d2ae8;
+	--link-hover-color: #e8822a;
 	--border-color: #525252;
 	--text-color: #ffffff;
 	--hover-text-color: rgba(255, 255, 255, 0.49);
@@ -622,8 +622,8 @@ rgb(194 0 255 / 40%) 100%
 	--page-text-color: rgba(82, 82, 82, 0.97);
 	--shortcut-background-color: #fff;
 	--shortcut-box-shadow: 0 0 20px 1px #fff;
-	--image-outline-color: #4400ff;
-	--button-background-color: #4400ff;
+	--image-outline-color: #de5c34;
+	--button-background-color: #de5c34;
 	--button-gradient-color: linear-gradient(
 		304deg,
 		rgb(135, 0, 245) 0%,
@@ -636,7 +636,7 @@ rgb(194 0 255 / 40%) 100%
 	--random-btn-active-background-color: rgb(15, 15, 15);
 	--settingsection-background-color: #0c0c0c;
 	--settingsection-background-color-hover: #101010;
-	--link-hover-color: #7d2ae8;
+	--link-hover-color: #e8822a;
 	--settingsection-hr-background: rgba(255, 255, 255, 0.22);
 	--button-reg-background-color: rgb(22, 22, 22);
 	--button-reg-hover-background-color: rgb(25, 25, 25);
@@ -672,11 +672,11 @@ rgb(194 0 255 / 40%) 100%
 	--color-header: '#fff';
 	--accent-color: linear-gradient(
 		101deg,
-		#4400ff7e 0%,
+		#de5c347e 0%,
 		rgba(242, 0, 255, 0.336) 100%
 	) !important;
 	--color-header: #ff0000 !important;
-	--dshadow1: #ae00ff;
+	--dshadow1: #ff0000;
 	--dshadow2: #8c00ff;
 	--dshadow3: #b700ff;
 	--dshadow4: #8400ff;

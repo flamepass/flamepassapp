@@ -1,5 +1,5 @@
 {
-	"name": "space",
+	"name": "flamepassapp",
 	"version": "1.1.0",
 	"type": "module",
 	"main": "index.js",
@@ -8,15 +8,15 @@
 		"format": "prettier --write ."
 	},
 	"keywords": [
-		"Space",
+		"Flamepass",
 		"Proxy",
 		"Unblocker",
-		"Space",
+		"Flamepass",
 		"Proxy",
-		"Space",
+		"Flamepass",
 		"Unblocker"
 	],
-	"author": "xnoctra <x.noctra@outlook.com>; crllect <crllect@proton.me>",
+	"author": "flamepass <flamepassproxies@gmail.com>; xnoctra <x.noctra@outlook.com>; crllect <crllect@proton.me>",
 	"license": "ISC",
 	"description": "",
 	"engines": {
