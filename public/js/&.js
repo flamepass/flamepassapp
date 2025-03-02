@@ -352,11 +352,11 @@ document.addEventListener('DOMContentLoaded', function () {
 	updateButtonStates();
 	if (localStorage.getItem('smallIcons') === 'false') {
 		switch (localStorage.getItem('dropdown-selected-text-searchEngine')) {
-			case 'Duck Duck Go':
+			case 'Google':
 				document.querySelector('.searchEngineIcon').src =
-					'/assets/imgs/b/ddg.webp';
+					'/assets/imgs/b/google.webp';
 				document.querySelector('.searchEngineIcon').style.transform =
-					'scale(1.35)';
+					'scale(1.2)';
 				break;
 			case 'Bing':
 				document.querySelector('.searchEngineIcon').src =
@@ -364,11 +364,11 @@ document.addEventListener('DOMContentLoaded', function () {
 				document.querySelector('.searchEngineIcon').style.transform =
 					'scale(1.65)';
 				break;
-			case 'Google (default)':
+			case 'Duck Duck Go (default)':
 				document.querySelector('.searchEngineIcon').src =
-					'/assets/imgs/b/google.webp';
+					'/assets/imgs/b/ddg.webp';
 				document.querySelector('.searchEngineIcon').style.transform =
-					'scale(1.2)';
+					'scale(1.35)';
 				break;
 			case 'Yahoo!':
 				document.querySelector('.searchEngineIcon').src =

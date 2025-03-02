@@ -21,7 +21,7 @@
 	--button-background-color: #de5c34;
 	--button-gradient-color: linear-gradient(
 		304deg,
-		rgb(204, 0, 245) 0%,
+		rgb(245, 57, 0) 0%,
 		#de5c34 100%
 	);
 	--scrolltop-background-color: rgba(32, 32, 32, 0.37);
@@ -74,7 +74,7 @@
 	--dshadow1: #ff0000;
 	--dshadow2: #de5c34;
 	--dshadow3: #ffef00;
-	--dshadow4: #8400ff;
+	--dshadow4: #ff0000;
 }
 
 #changelogfy-launcher {
